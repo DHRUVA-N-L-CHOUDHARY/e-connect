@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "148707701911",
+    "firebase_url": "https://chatapp-a27a9-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-a27a9",
+    "storage_bucket": "chatapp-a27a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148707701911:android:cbb1de3e12ed503a8b25d2",
+        "android_client_info": {
+          "package_name": "com.timelessfusionapps.smart_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148707701911-034n56rj4lc4ig5gvi99lfo51056oso5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timelessfusionapps.smart_talk",
+            "certificate_hash": "8e8fa68729a0272f898e318b394b6b4c0c54e784"
+          }
+        },
+        {
+          "client_id": "148707701911-j6sdeo1e217r2lti4lg1vdosp7l5c88d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdrrfVanTpkTCA_e3I68bZIo9sT-RvWac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148707701911-j6sdeo1e217r2lti4lg1vdosp7l5c88d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "148707701911-d0gjt1m0ipqb5biho4lkql7pivb8usp2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timelessfusionapps.smartTalk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
